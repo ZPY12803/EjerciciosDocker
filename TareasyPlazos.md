@@ -15,5 +15,11 @@ Autores: Cristina Herrero Rodríguez, Carolina Medina Llorente, Sergio Fernánde
 
 ### Asignación de tareas
 
-Placeholder.
+*Plazo 1 - martes 18 Enero* - Toma de contacto
+
+**Cristina**: Ejercicio Inicial + Ejercicio Imagenes.ServidorWeb
+
+**Carolina**: Ejercicio Almacenamiento + Ejercicio Dockerfile
+
+**Peñil**: Ejercicio Imagenes.ServidorBD + Ejercicio Redes
 
