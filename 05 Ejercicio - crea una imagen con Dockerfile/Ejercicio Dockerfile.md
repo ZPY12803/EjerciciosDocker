@@ -50,6 +50,10 @@ Deberás entregar los siguientes pantallazos y los comandos empleados para resol
 
 4. Pantallazo donde se vea la bajada de la imagen - por parte de otra persona del grupo - y la creación de un contenedor. 
 
+   ![IMAGE-5](Ejercicio%20Dockerfile.assets/IMAGE-5.png)
+
+   ![IMAGE-6](Ejercicio%20Dockerfile.assets/IMAGE-6.png)
+
    
 
 5. Pantallazo donde se ve el acceso al navegador con el sitio servido
